@@ -14,7 +14,7 @@ navigator.mediaDevices.getUserMedia({video: true, audio: true})
     });
 
     peer = new Peer({
-        key: '57e81954-949d-4144-9a3a-1408515cad14',
+        key: 'your api key',
         debug: 3
     });
 
